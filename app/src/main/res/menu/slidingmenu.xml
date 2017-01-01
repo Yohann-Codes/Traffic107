@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@mipmap/home_slide"
+        android:title="路况首页" />
+
+    <item
+        android:id="@+id/add"
+        android:icon="@mipmap/add_slide"
+        android:title="发布路况" />
+
+    <item
+        android:id="@+id/ask"
+        android:icon="@mipmap/ask_slide"
+        android:title="询问附近" />
+
+    <item
+        android:id="@+id/statistics"
+        android:icon="@mipmap/statistics_slide"
+        android:title="数据统计" />
+</menu>
